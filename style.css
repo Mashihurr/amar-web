@@ -1,0 +1,44 @@
+body {
+    margin: 0%;
+}
+
+h1 {
+    text-align: center;
+    color: fuchsia;
+}
+
+h3 {
+    text-align: center;
+    color: darkblue;
+}
+
+.same-line {
+    display: flex;
+    padding-top: 10px;
+}
+
+.same-line img {
+    width: 60%;
+    padding-left: 60px;
+}
+
+.same-line p {
+    padding-left: 20px;
+}
+
+.half {
+    width: 50%;
+}
+
+#my-accout {
+    text-decoration: none;
+    background-image: linear-gradient(black, red);
+    padding: 5px 30px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+span {
+    padding-left: 10%;
+}
